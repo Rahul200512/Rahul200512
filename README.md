@@ -7,9 +7,7 @@
   <a href="mailto:rahulavula2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://github.com/Rahul200512">
-    <img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
-  </a>
+ 
   <img src="https://komarev.com/ghpvc/?username=Rahul200512&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
 </div>
 

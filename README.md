@@ -1,9 +1,18 @@
-<h2 align="left">Hi 👋! My name is Rahul Reddy Avula and I'm a Software Engineer, from India</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20Reddy%20Avula&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=55" width="100%" alt="header" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahul200512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rahul200512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul200512&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="dev quote" />
+</div>
+
+<br>
 
 <p align="left">Programming Languages</p>
 
@@ -105,3 +114,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rahul200512/Rahul200512/output/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />

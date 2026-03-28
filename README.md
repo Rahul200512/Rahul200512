@@ -24,7 +24,7 @@
 ## 🧑‍💻 About Me
 ```yaml
 🎓 Education:     B.S. Computer Science @ Arizona State University (May 2026)
-💼 Experience:    Full-Stack Development • Data Engineering • AI/ML
+💼 Experience:    Software Engineer • Data Engineering • AI/ML
 🌱 Passionate:    Building scalable & reliable software solutions
 🎯 2026 Goal:     Land a full-time SWE role & contribute to open source
 ⚡ Fun Fact:      I love turning complex problems into clean, efficient code

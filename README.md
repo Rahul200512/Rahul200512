@@ -29,8 +29,7 @@
 
 - 🎓 **B.S. Computer Science** @ Arizona State University *(May 2026)*
 - 💼 Experienced in **full-stack development**, **data engineering**, and **AI/ML**
-- 🌱 Currently exploring **cloud-native architectures** & **distributed systems**
-- 🔭 Working on projects involving **React, Node.js, Spring Boot & TensorFlow**
+- 🌱 Passionate about building **scalable** and **reliable** software solutions
 - 🎯 **2026 Goal:** Land a full-time SWE role & contribute to open source
 - ⚡ Fun fact: I love turning complex problems into clean, efficient code
 
@@ -43,7 +42,9 @@ const rahul = {
   roles: ["Full-Stack Dev",
           "AI/ML Engineer",
           "Data Engineer"],
-  currentFocus: "Distributed Systems",
+  passions: ["Clean Code",
+             "System Design",
+             "Problem Solving"],
   lifePhilosophy: "Ship fast, learn faster"
 };
 ```
@@ -51,16 +52,6 @@ const rahul = {
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 What I'm Currently Up To
-```text
-🔨 Building       →  Full-stack apps with modern frameworks
-📚 Learning       →  System Design & Cloud Architecture
-🤝 Open to        →  Collaborations, internships & SWE roles
-💬 Ask me about   →  React, Node.js, Spring Boot, Python, AI/ML
-```
 
 ---
 
@@ -156,6 +147,16 @@ const rahul = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul200512&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Rahul200512)
+
+</div>
 
 ---
 

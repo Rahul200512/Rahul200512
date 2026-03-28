@@ -92,52 +92,6 @@
 
 <br>
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌿 GreenStream AI Toolbox</h3>
-<p align="center">
-A sustainability management platform for businesses featuring AI-powered Carbon Footprint Calculator, ROI Assessment Tool, and Lifecycle Analysis.
-<br/><br/>
-<strong>Tech:</strong> React · Node.js · Python · TensorFlow · MongoDB
-</p>
-</td>
-<td width="50%">
-<h3 align="center">💻 LeetCode Solutions</h3>
-<p align="center">
-Curated collection of Data Structures & Algorithms solutions with detailed explanations and complexity analysis.
-<br/><br/>
-<strong>Tech:</strong> Python · Java · C++
-<br/>
-<a href="https://github.com/Rahul200512/Leetcode-problems">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-</p>
-</td>
-</tr>
-</table>
-
-> 💡 *Check out my [pinned repositories](https://github.com/Rahul200512) for more!*
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul200512&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul200512&theme=dracula&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul200512&layout=compact&theme=dracula&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
-
-</div>
-
-<br>
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects and ideas. Feel free to reach out!

@@ -16,42 +16,29 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Building+scalable+systems+one+commit+at+a+time+%F0%9F%9A%80;Clean+code+%E2%80%A2+Smart+solutions+%E2%80%A2+Real+impact+%F0%9F%92%A1;CS+%40+Arizona+State+University+%F0%9F%8E%93;Open+to+SWE+opportunities+for+2026+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+scalable+systems+one+commit+at+a+time+%F0%9F%9A%80;Clean+code+%E2%80%A2+Smart+solutions+%E2%80%A2+Real+impact+%F0%9F%92%A1;CS+%40+Arizona+State+University+%F0%9F%8E%93;Open+to+SWE+opportunities+for+2026+%F0%9F%8E%AF" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td>
-
-- 🎓 **B.S. Computer Science** @ Arizona State University *(May 2026)*
-- 💼 Experienced in **full-stack development**, **data engineering**, and **AI/ML**
-- 🌱 Passionate about building **scalable** and **reliable** software solutions
-- 🎯 **2026 Goal:** Land a full-time SWE role & contribute to open source
-- ⚡ Fun fact: I love turning complex problems into clean, efficient code
-
-</td>
-<td>
-```javascript
-const rahul = {
-  location: "Tempe, AZ",
-  education: "CS @ ASU",
-  roles: ["Full-Stack Dev",
-          "AI/ML Engineer",
-          "Data Engineer"],
-  passions: ["Clean Code",
-             "System Design",
-             "Problem Solving"],
-  lifePhilosophy: "Ship fast, learn faster"
-};
+```yaml
+🎓 Education:     B.S. Computer Science @ Arizona State University (May 2026)
+💼 Experience:    Full-Stack Development • Data Engineering • AI/ML
+🌱 Passionate:    Building scalable & reliable software solutions
+🎯 2026 Goal:     Land a full-time SWE role & contribute to open source
+⚡ Fun Fact:      I love turning complex problems into clean, efficient code
 ```
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-BD93F9?style=flat-square&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-50FA7B?style=flat-square&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF79C6?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-8BE9FD?style=flat-square&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFB86C?style=flat-square&logoColor=black)
+
+</div>
 
 ---
 
@@ -147,16 +134,6 @@ const rahul = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </details>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul200512&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Rahul200512)
-
-</div>
 
 ---
 
